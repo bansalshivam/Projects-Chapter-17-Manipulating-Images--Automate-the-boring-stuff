@@ -2,7 +2,8 @@
 
 import os
 from PIL import Image, ImageDraw, ImageFont
-"""crop flower image
+
+"""crop/resize flower image according to card size
 flower = Image.open('flower.jpg')
 flower2 = flower.resize((int(width / 4), int(height / 2)))
 flower2.save('cropFlower.png')
