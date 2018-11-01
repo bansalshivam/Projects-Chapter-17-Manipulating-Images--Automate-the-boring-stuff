@@ -2,17 +2,34 @@
 
 These projects are given in the book AUTOMATE THE BORING STUFF WITH PYTHON. You can buy the book from amazon or can look at https://automatetheboringstuff.com/ and can access it for free.
 
+There are three projects given in chapter 17 Manipulating Images:
+1. Extending and Fixing the Chapter Project Programs:
+
+https://github.com/bansalshivam/Projects-Chapter-17-Manipulating-Images--Automate-the-boring-stuff/blob/master/resizeAndAddLogo_2.py
+
+2. Identifying Photo Folders on the Hard Drive:
+
+https://github.com/bansalshivam/Projects-Chapter-17-Manipulating-Images--Automate-the-boring-stuff/blob/master/resizeAndAddLogo_2.py
+
+3. Custom Seating Cards:
+
+https://github.com/bansalshivam/Projects-Chapter-17-Manipulating-Images--Automate-the-boring-stuff/blob/master/CeatingCard.png
+
 The codes to solve the projects have uploaded in this repository.
 
-The first project is 'Ceating Cards' in which you have to create a custom invitation card with some flower design & names printed on it according to list guests.txt.
+-----------------------------------------------------------------------------------------------------------------------------
 
-To run this project you need Python3 & above.
+To run these projects you need Python3 & above.
 Also you need to install a third party module 'Pillow'.
-It is suggested to install it in vitual environment and to create one in a directory type:
- pyhton3 -m venv env 
-After creating virtual environment activate it by command:
+It is suggested to install it in vitual environment and to create one in a directory enter:
+
+ python3 -m venv env 
+
+After creating virtual environment, activate it by command:
+ 
  source env/bin/activate
  
-Now To install Pillow enter : pip install pillow
+Now To install Pillow enter : 
+  pip install pillow
 
 
