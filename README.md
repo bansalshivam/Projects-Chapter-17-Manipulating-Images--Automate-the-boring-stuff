@@ -15,9 +15,9 @@ https://github.com/bansalshivam/Projects-Chapter-17-Manipulating-Images--Automat
 
 https://github.com/bansalshivam/Projects-Chapter-17-Manipulating-Images--Automate-the-boring-stuff/blob/master/CeatingCard.png
 
-The codes to solve the projects have uploaded in this repository.
-
 -----------------------------------------------------------------------------------------------------------------------------
+
+The codes to solve the projects have uploaded in this repository.
 
 To run these projects you need Python3 & above.
 Also you need to install a third party module 'Pillow'.
