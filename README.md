@@ -21,7 +21,7 @@ The codes to solve the projects have uploaded in this repository.
 
 To run these projects you need Python3 & above.
 Also you need to install a third party module 'Pillow'.
-It is suggested to install it in vitual environment and to create one in a directory enter:
+It is suggested to install it in virtual environment and linux users can create virtual environment by entering:
 
  python3 -m venv env 
 
